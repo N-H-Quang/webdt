@@ -1,0 +1,11 @@
+.product .col-8
+{
+padding: 10px;
+    border: 10px solid #dedede;
+}
+.product .col-4
+{
+padding: 10px;
+    border: 1px solid #dedede;
+    border-left: 0;
+}
